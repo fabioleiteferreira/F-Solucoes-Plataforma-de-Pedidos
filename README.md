@@ -16,9 +16,9 @@ representante tem a sua loja, com produtos e clientes separados dos demais.
 
 ## Vídeo (40 segundos)
 
-[![Assista ao vídeo da plataforma](docs/video-capa.jpg)](docs/F-Solucoes-Plataforma-de-Pedidos.mp4)
+![Demonstração da plataforma](docs/demonstracao.gif)
 
-*Clique na imagem para abrir o vídeo.*
+*Quer ver em alta qualidade? [Baixe o vídeo completo (MP4)](docs/F-Solucoes-Plataforma-de-Pedidos.mp4).*
 
 ---
 
